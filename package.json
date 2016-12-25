@@ -11,9 +11,11 @@
   },
   "dependencies": {
     "express": "^4.14.0",
+    "mongojs": "^2.4.0",
     "nodemon": "^1.11.0",
     "react": "15.4.1",
     "react-native": "0.39.2",
+    "react-native-gifted-chat": "0.0.10",
     "socket.io": "^1.7.2"
   },
   "devDependencies": {

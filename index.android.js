@@ -1,3 +1,3 @@
-var ReactNative = require('react-native');
-var Main = require('./src/app');
+import ReactNative from 'react-native';
+import Main from './src/app';
 ReactNative.AppRegistry.registerComponent('reactnativesocketioexample', () => Main);
