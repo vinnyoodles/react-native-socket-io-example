@@ -1,5 +1,5 @@
 # React Native Socket.io Example
-A demo for implementing a mobile chatroom as well as practice for myself using React Native and Socket.io.
+A demo for implementing a mobile chatroom as well as practice for myself using React Native and Socket.io. I talked more about this in my [Medium article](https://medium.com/@vinnyoodles/a-simple-messaging-app-with-react-native-and-socket-io-e1cae3df7bda)
 
 ### Getting started
 First, install React Native, Socket.io and other node modules.
