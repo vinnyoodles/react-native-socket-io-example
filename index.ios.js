@@ -1,3 +1,3 @@
 import ReactNative from 'react-native';
-import Main from './src/app';
+import Main from './client';
 ReactNative.AppRegistry.registerComponent('reactnativesocketioexample', () => Main);
